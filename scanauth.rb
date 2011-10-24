@@ -1,6 +1,5 @@
 #!/usr/bin/env ruby
 # Author: Daniel Matthis
-# E-mail: daniel.matthis@gmail.com
 #
 # Purpose: Check /var/log/auth.log for the number of different user names that have attempted to log in.
 
