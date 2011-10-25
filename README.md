@@ -2,7 +2,7 @@
 
 Ruby script for sysadmins who want to quickly look at their auth log and get some vital details. 
 
-## Installation prerquesites.
+## Installation prerequesites.
 
 * Linux system
 * Ruby (1.9.2)
@@ -24,10 +24,8 @@ You need Git in order to get the latest script.
 ## Usage
 
 There are several ways you can run the script
-	$ ruby scanauth.rb <auth.log_file>
-	$ ./scanauth.rb <auth.log_file>
+
+    $ ruby scanauth.rb <auth.log_file>
+    $ ./scanauth.rb <auth.log_file>
 
  
-
-
-
